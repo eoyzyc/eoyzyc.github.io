@@ -1,10 +1,10 @@
 h1{
     color: orange;
-    font-size: 80px;
+    font-size: 30px;
 }
 
 body {    
-    background-image: url("https://wallpapercave.com/wp/wp4712646.jpg");
+    background-image: url("https://wallpaperaccess.com/full/628286.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     color: black;
@@ -20,7 +20,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: lightgrey
+    background-color: whitesmoke;
     }    
 li {
     float: left;}      
@@ -31,7 +31,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;}      
 li a:hover {
-    background-color: dodgerblue;
+    background-color: black;
     color: white;}    
 li a.active {
     background-color: #4CAF50;
@@ -42,3 +42,5 @@ mark{
     background-color: rgba(0,0,0,.01);
     color: orange;
 }
+
+
