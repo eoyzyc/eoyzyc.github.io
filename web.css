@@ -37,11 +37,12 @@ li a.active {
     background-color: #4CAF50;
     color: white;}
 
-mark{
+label{
     font-size: 80px;
     background-color: rgba(0,0,0,.01);
     color: orange;
 }
+
 
 
 
