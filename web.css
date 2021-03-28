@@ -4,7 +4,8 @@ h1{
 }
 
 body {    
-    background-image: url("https://wallpaperaccess.com/full/628286.jpg");
+    /*background-image: url("https://wallpaperaccess.com/full/628286.jpg");*/
+    background-color: black;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     color: black;
