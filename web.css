@@ -13,6 +13,7 @@ body {
 
 p{
     border: 5px solid red;
+    background:rgba(255,255,255, 0.3);
 }
 
 ul {
@@ -64,8 +65,3 @@ label{
 .c:hover{
     color:blue;
 }
-
-.bgcolor{
-    background:rgba(255,255,255, 0.3);
-}
-
