@@ -14,7 +14,6 @@ body {
 
 p{
     border: 5px solid red;
-    background-color: white;
 }
 
 ul {
@@ -67,5 +66,7 @@ label{
     color:blue;
 }
 
-
+.bgcolor{
+    background-color: white;
+}
 
