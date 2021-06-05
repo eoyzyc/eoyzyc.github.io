@@ -73,6 +73,7 @@ label{
 p.a{
     font-style: italic;
     color: green;
+    font-size: 40px;
 }
 
 ::selection {
