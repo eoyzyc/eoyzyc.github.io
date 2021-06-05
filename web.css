@@ -79,3 +79,10 @@ p.a{
     color: black; 
     background: yellow;
 }
+
+p.double{
+    border-style: double;
+    border-color: green;
+    text-align: center;
+
+}
