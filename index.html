@@ -9,6 +9,14 @@
     </style>
 
     <head>
+        <script>
+        document.onkeydown = function(e) {
+                if (e.ctrlKey && 
+                    (e.keyCode === 85 )) {
+                    return false;
+                }
+        };
+        </script>        
         <script src="web.js"></script>
         <link rel="icon" type="image/ico" href="favicon.ico"/>
         <meta charset = "utf-8" />
