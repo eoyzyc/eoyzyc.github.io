@@ -85,5 +85,17 @@ p.double{
     border-style: double;
     border-color: green;
     text-align: center;
+}
 
+a:link {
+  color: yellow;
+}
+a:visited {
+  color: yellow;
+}
+a:hover {
+  color: yellow
+}
+a:active {
+  color: yellow;
 }
